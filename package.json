@@ -1,0 +1,16 @@
+{
+  "name": "filemap",
+  "version": "0.0.1",
+  "description": "Conviniently load a bunch of files.",
+  "main": "filemap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "files",
+    "load"
+  ],
+  "author": "Simon Ljungberg <hi@iamsim.me>",
+  "license": "ISC"
+}
